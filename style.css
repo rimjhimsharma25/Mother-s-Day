@@ -35,7 +35,7 @@ body{
 .hero-content{
   position:relative;
   z-index:2;
-  color:rgb(226, 156, 190);
+  color:rgb(202, 10, 113);
   width:90%;
   max-width:1000px;
   transform: translateY(-100px);
